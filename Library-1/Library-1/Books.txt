@@ -1,0 +1,3 @@
+﻿Harry Potter and the Philosopher's Stone;J.K. Rowling;Fantasy;9781408855652;False
+To Kill a Mockingbird;Harper Lee;Fiction;9780061120084;True
+1984;George Orwell;Dystopian;9780451524935;False
